@@ -1,0 +1,77 @@
+.sign-in {
+    max-width: 290px;
+    margin: auto;
+}
+
+.sign-in-with {
+    color: #ffffff;
+    margin: 0;
+    font-weight: 600;
+    text-align: center;
+}
+
+.logo-text-container {
+    text-align: center;
+}
+
+.logo-text {
+    width: 200px;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.account {
+    color: #ffffff;
+    font-weight: 600;
+    text-align: center;
+}
+
+.sign-in-button {
+    width: 290px;
+    background-color: #048ba8 ;
+    font-weight: bolder;
+    box-shadow: 0 0 4px 2px #405866;
+    border: none;
+}
+
+.sign-in-button:hover {
+    background-color: #1a9bb7;
+}
+
+.remember-forgot {
+    display: flex;
+    justify-content: space-between;
+}
+.remember-me {
+    color: #ffffff;
+}
+
+.sign-up-today {
+    color: #ffffff;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.sign-up-button {
+    width: 290px;
+    background-color: #eca84a ;
+    font-weight: bolder;
+    border: none;
+    box-shadow: 0 0 4px 2px #405866;
+
+}
+
+.sign-up-button:hover {
+    background-color: #f6b65f;
+}
+
+.how-it-works-img {
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+.learn-more-img {
+    margin-bottom: 20px;
+}
+
